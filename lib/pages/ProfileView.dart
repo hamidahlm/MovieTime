@@ -60,7 +60,7 @@ class ProfileView extends StatelessWidget {
                         color: Color.fromARGB(255, 255, 255, 255),
                       ),
                     ),
-                    SizedBox(height: 16),
+                    SizedBox(height: 15),
                   ],
                 ),
               ),
